@@ -9,7 +9,7 @@ public class UserController {
 
     @RequestMapping(value = "/user/login",method = RequestMethod.POST)
     public String login() {
-        return "66666";
+        return "6666士大夫6";
     }
 
     @RequestMapping(value = "/user/unLogin")
